@@ -7,7 +7,11 @@
 
 - 🔭 I’m currently working on **Freelancer**
 
+- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, JQuery, Bootstrap, Tailwind, PHP, Mysql, Wordpress**
+
 - 👨‍💻 All of my projects are available at [https://github.com/akimuddin](https://github.com/akimuddin)
+
+- 💬 Ask me about **Web Design, Web Development, Web Application, Wordpress Development.**
 
 - 📫 How to reach me **akimuddin81@gmail.com**
 
