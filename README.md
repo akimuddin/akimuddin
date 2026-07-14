@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Akim Uddin</h1>
-<h3></h3> am a passionate <b>Web Designer & Developer</b> focused on building responsive, user-friendly, and high-performance web applications with PHP, MySQL, and WordPress. I love turning complex problems into simple, beautiful, and intuitive designs.
+<h3></h3> a passionate <b>Web Designer & Developer</b> focused on building responsive, user-friendly, and high-performance web applications with PHP, MySQL, and WordPress. I love turning complex problems into simple, beautiful, and intuitive designs.
 </h3>
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akimuddin" alt="akimuddin" /></a> </p>-->
