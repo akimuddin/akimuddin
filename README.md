@@ -44,14 +44,13 @@
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-### 📫 Connect with Me
+<h3 align="left">📫 Connect with Me:</h3>
 <p align="left">
 <a href="https://codepen.io/akimuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akimuddin" height="30" width="40" /></a>
 <a href="https://twitter.com/akimuddin81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akimuddin81" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/akimuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akimuddin" height="30" width="40" /></a>
 </p>
 
-- 📧 Email: [আপনার ইমেইল এড্রেস]
-- 💼 LinkedIn: [আপনার লিঙ্কডইন প্রোফাইল লিঙ্ক]
-- 🌐 Portfolio: [আপনার পোর্টফোলিও সাইটের লিঙ্ক]
+- 📧 Email: akimuddin81@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/akimuddin
+- 🌐 Portfolio: https://github.com/akimuddin/
