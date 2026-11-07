@@ -1,53 +1,231 @@
-<h1 align="center">Hi, I'm Akim Uddin</h1>
-<h3></h3> a passionate <b>Web Designer & Developer</b> focused on building responsive, user-friendly, and high-performance web applications with PHP, MySQL, and WordPress. I love turning complex problems into simple, beautiful, and intuitive designs.
-</h3>
-<!--
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akimuddin" alt="akimuddin" /></a> </p>-->
 
-- 🔭 I’m currently working on **Freelancer**
+<!-- ================= HEADER ================= -->
 
-- 🌱 I’m currently learning **HTML5, CSS3, JavaScript, JQuery, Bootstrap, Tailwind, PHP, Mysql, Wordpress**
+<div align="center">
 
-- 👨‍💻 All of my projects are available at [https://github.com/akimuddin](https://github.com/akimuddin)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071426,50:0B3150,100:00C2D1&height=220&section=header&text=AKIM%20UDDIN&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=WordPress%20Developer%20%7C%20WooCommerce%20Expert&descSize=17&descAlignY=58&animation=fadeIn" width="100%" />
 
-- 💬 Ask me about **Web Design, Web Development, Web Application, Wordpress Development.**
+<h1>Hi, I'm Akim Uddin 👋</h1>
 
-- 📫 How to reach me **akimuddin81@gmail.com**
+<h3>Brand Positioning | Web Designer | Web Developer</h3>
 
----
-### 📈 What I Do
-- 🌐 Build fully responsive, mobile-first websites.
-- ⚙️ Develop custom WordPress themes and landing pages.
-- 🗄️ Design and optimize MySQL databases for web applications.
-- ⚡ Optimize website performance and page speed.
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=00C2D1&center=true&vCenter=true&width=650&lines=WordPress+%26+WooCommerce+Developer;Building+Modern+Digital+Experiences;Responsive+Website+Designer;Turning+Ideas+Into+Digital+Solutions" />
+</p>
 
----
+<p>
+  <a href="https://github.com/akimuddin">
+    <img src="https://komarev.com/ghpvc/?username=akimuddin&label=PROFILE%20VIEWS&color=00C2D1&style=for-the-badge" />
+  </a>
+  <a href="https://github.com/akimuddin?tab=followers">
+    <img src="https://img.shields.io/github/followers/akimuddin?label=Followers&style=for-the-badge&color=0B7890" />
+  </a>
+</p>
 
-### 🛠️ Tech Stack & Tools
-
-- **Frontend:** HTML5, CSS3, JavaScript, Bootstrap, Elementor
-- **Backend:** PHP
-- **Database:** MySQL
-- **CMS:** WordPress
-- **Tools:** Git, GitHub, VS Code / Sublime Text, XAMPP
+</div>
 
 ---
 
-<h3 align="left">📫 Connect with Me:</h3>
-<p align="left">
-<a href="https://codepen.io/akimuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="akimuddin" height="30" width="40" /></a>
-<a href="https://twitter.com/akimuddin81" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="akimuddin81" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akimuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akimuddin" height="30" width="40" /></a>
+<!-- ================= ABOUT ================= -->
+
+## <img src="https://img.shields.io/badge/01-ABOUT%20ME-00C2D1?style=flat-square" />
+
+I'm Md Akim Uddin, a Web Designer and Developer focused on creating modern, responsive and user-friendly digital experiences.
+
+An analyst by training, an educator by heart, a tech enthusiast at core, and a dedicated human being above all.
+
+- 🌐 WordPress Website Development
+- 🛒 WooCommerce E-commerce Solutions
+- 🎨 Brand Positioning & UI Design
+- 💻 Custom Landing Page Development
+- ⚡ Website Speed & Performance Optimization
+- 📚 PHP, MySQL and Web Application Development
+
+- 🔭 Currently working as a Freelance Web Developer
+- 🌱 Continuously learning modern web technologies
+- 💬 Ask me about WordPress, WooCommerce, PHP and Web Design
+
+---
+
+<!-- ================= WHAT I DO ================= -->
+
+## <img src="https://img.shields.io/badge/02-WHAT%20I%20DO-00C2D1?style=flat-square" />
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Web Design & Development
+
+- Responsive Website Design
+- Business Website Development
+- Custom Landing Pages
+- WordPress Theme Customization
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 E-commerce Development
+
+- WooCommerce Store Setup
+- Product Page Customization
+- Shopping Cart & Checkout
+- E-commerce Optimization
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend Development
+
+- PHP Development
+- MySQL Database
+- Form Validation
+- Dynamic Web Applications
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Website Optimization
+
+- Website Speed Optimization
+- Responsive Performance
+- Clean Code Structure
+- User-Friendly Interfaces
+
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ================= TECH STACK ================= -->
+
+## <img src="https://img.shields.io/badge/03-TECH%20STACK-00C2D1?style=flat-square" />
+
+### Frontend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,tailwind" />
+</p>
+
+### Backend Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=php,mysql" />
+</p>
+
+### CMS & E-commerce
+
+<p>
+<img src="https://skillicons.dev/icons?i=wordpress" />
+</p>
+
+### Tools & Software
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,photoshop" />
 </p>
 
 ---
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akimuddin&show_icons=true&locale=en&layout=compact" alt="akimuddin" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=akimuddin&show_icons=true&locale=en" alt="akimuddin" /></p> -->
+<!-- ================= GITHUB STATS ================= -->
 
-- 📧 Email: akimuddin81@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/akimuddin
-- 🌐 Portfolio: https://github.com/akimuddin/
+## <img src="https://img.shields.io/badge/04-GITHUB%20STATISTICS-00C2D1?style=flat-square" />
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=akimuddin&show_icons=true&theme=transparent&hide_border=true&title_color=00C2D1&icon_color=00C2D1&text_color=FFFFFF&bg_color=071426" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akimuddin&layout=compact&theme=transparent&hide_border=true&title_color=00C2D1&text_color=FFFFFF&bg_color=071426" width="49%" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=akimuddin&theme=transparent&hide_border=true&ring=00C2D1&fire=00C2D1&currStreakLabel=00C2D1&sideLabels=FFFFFF&dates=AAAAAA" width="80%" />
+
+</div>
+
+---
+
+<!-- ================= CONTRIBUTION ================= -->
+
+## <img src="https://img.shields.io/badge/05-CONTRIBUTION%20GRAPH-00C2D1?style=flat-square" />
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akimuddin&bg_color=071426&color=00C2D1&line=00C2D1&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<!-- ================= CAREER GOALS ================= -->
+
+## <img src="https://img.shields.io/badge/06-CAREER%20GOALS-00C2D1?style=flat-square" />
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+
+### 💡 My Vision
+
+"Build meaningful digital experiences through creative design, clean code and continuous learning."
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ================= CONNECT ================= -->
+
+## <img src="https://img.shields.io/badge/07-LET'S%20CONNECT-00C2D1?style=flat-square" />
+
+<div align="center">
+
+I'm always interested in connecting with developers, designers and people who love technology.
+
+<br/>
+
+<a href="https://linkedin.com/in/akimuddin">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://codepen.io/akimuddin">
+<img src="https://img.shields.io/badge/CodePen-Visit-000000?style=for-the-badge&logo=codepen&logoColor=white" />
+</a>
+
+<a href="https://twitter.com/akimuddin81">
+<img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+
+<a href="mailto:akimuddin81@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<a href="https://github.com/akimuddin">
+<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<!-- ================= FOOTER ================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2D1,50:0B3150,100:071426&height=120&section=footer" width="100%" />
+
+**Thanks for visiting my GitHub Profile!**
+
+<sub>Designed with ❤️ by Akim Uddin</sub>
+
+</div>
